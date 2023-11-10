@@ -1,0 +1,2 @@
+1. Run **download_cyrillic_wikis.py** to download Wikipedia dumps of languages with Cyrillic alphabets
+2. Run **unpack_dumps.py** to convert dumps to clean .txt files (uses WikiExtractor.py for cleaning look [here](https://github.com/apertium/WikiExtractor) and [here](https://wiki.apertium.org/wiki/Wikipedia_Extractor) for more info)
